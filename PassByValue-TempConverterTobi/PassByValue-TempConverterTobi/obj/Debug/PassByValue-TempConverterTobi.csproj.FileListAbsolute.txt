@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\bin\Debug\PassByValue-TempConverterTobi.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\bin\Debug\PassByValue-TempConverterTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\bin\Debug\PassByValue-TempConverterTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue-TempConverterTobi.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue_TempConverterTobi.frmPassByValueTempConverter.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue_TempConverterTobi.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue-TempConverterTobi.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue-TempConverterTobi.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue-TempConverterTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 3 (Decisions)\PassByValue-TempConverterTobi\PassByValue-TempConverterTobi\obj\Debug\PassByValue-TempConverterTobi.pdb
