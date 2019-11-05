@@ -16,5 +16,18 @@ namespace OptionalParametersTobi
         {
             InitializeComponent();
         }
+        //Procedure: PrintAdress
+        //Input: String apptNumber,String streetAdress,String City,String Province,String postalCode.
+        //Ouput; Void
+        //Description: This procedure displays a message box with the given five parameters: apptNumber,streetAdress,City,Province,postalCode
+        public void PrintAdress(string apptNumber,string streetAdress,string City,string Province,string postalCode)
+        {
+            Message box show 
+        }
+        private void BtnEnter_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
