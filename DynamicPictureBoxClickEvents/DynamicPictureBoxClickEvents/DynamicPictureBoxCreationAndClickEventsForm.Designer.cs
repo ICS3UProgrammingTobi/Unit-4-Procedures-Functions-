@@ -30,6 +30,7 @@
         {
             this.lblInstructions = new System.Windows.Forms.Label();
             this.btnStart = new System.Windows.Forms.Button();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // lblInstructions
@@ -57,7 +58,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 581);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.lblInstructions);
             this.Name = "frmDynamicPictureBoxCreationAndClickEvents";
@@ -71,6 +72,7 @@
 
         private System.Windows.Forms.Label lblInstructions;
         private System.Windows.Forms.Button btnStart;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 
